@@ -1,5 +1,5 @@
 # Rock Paper Scissors Game
-Visit Site - https://leelasri211.github.io/Rock-Paper-Scissor-game.github.io/
+Visit Site - https://leelasri211.github.io/Rock-Paper-Scissor-game.github.io/10-rock-paper-scissors.html
 ## Description
 This is a simple implementation of the classic Rock Paper Scissors game. Test your luck and strategy against the computer!
 
